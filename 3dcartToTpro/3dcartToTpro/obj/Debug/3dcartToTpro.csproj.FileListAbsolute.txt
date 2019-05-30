@@ -1,0 +1,12 @@
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\3dcartToTpro.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\3dcartToTpro.pdb
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\Newtonsoft.Json.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Net.Http.Formatting.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Web.Http.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Web.Http.WebHost.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\Newtonsoft.Json.xml
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Net.Http.Formatting.xml
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Web.Http.xml
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\bin\System.Web.Http.WebHost.xml
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\obj\Debug\3dcartToTpro.dll
+D:\POC\DreamBig\Upwork\FeatherITSol\3dcartToTpro\3dcartToTpro\obj\Debug\3dcartToTpro.pdb
